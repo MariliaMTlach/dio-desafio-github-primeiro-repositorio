@@ -1,0 +1,20 @@
+Oi, meu nome é Marília Moretti Tlach.
+
+Sou de Santo André na Grande São Paulo, tenho 29 anos.	
+Comecei a trabalhar quando tinha 15 anos e desde então nunca mais parei, em 2021 eu fiquei desempregada e decidi que gostaria de aprender a programar, com a ajuda de um grande e querido amigo eu comecei a estudar Lógica de programação e Java, desde então eu tenho me dedicado a aprender cada dia mais sobre a programação.
+Meu sonho é poder trabalhar na área para poder ter uma vida mais estável e conseguir realizar os meus sonhos.
+Espero conseguir me firmar nessa área e ser uma pessoa melhor a cada dia.
+
+Meus Objetivos com a programação são:
+    1- Conseguir um emprego na área da programação como BackEnd.
+    2- Fazer faculdade e pós graduação na área da computação.
+    3- Me estabilzar e assim conseguir em pelo menos 1 ano e meio comprar o meu carro e a minha moto.
+    4- Conseguir o dinheiro necessário para poder reformar a casa da minha mãe. Para que ela possa ter mais conforto.
+    5- Começar a me programar e planejar para comprar a minha casa.
+    
+
+Alguns cursos que eu ja fiz:
+    1- Lógica de programação - Gustavo Guanabara.
+    2- Java e Orientação a Objetos - Alura(cursando).
+
+Estou bem no começo, mas pretendo crescer cada dia mais.

@@ -1,0 +1,34 @@
+Anotações sobre as aulas do bootcamp GFT.
+
+Curso: Estrutura de Dados e Algoritmos.
+
+Algoritmo: É um conjunto de instruções estruturadas e ordenadas, seu objetivo é realizar uma tarefa ou operação específica.
+São utilizadas para manipular estruturas de várias formas, como por exemplo: Inserir, Excluir, Procurar, e Ordenar dados.
+
+
+-Principais estruturas de dados:
+
+-Vetores e Matrizes: São estruturas de dados simples que podem auxiliar quando há muitas variáveis do mesmo tipo em um algoritmo.
+
+-Vetor ou Array uni-dimensional é uma variável que armazena várias variáveis do mesmo tipo. É uma estrutura de dados indexada, que pode armazenar uma determinada quantidade de valores do mesmo tipo.
+
+-Matriz ou Array multi-dimensional é um vetor de vetores, uma matriz é um vetor que possui duas ou mais dimensões.
+
+-Registro: É uma estrutura que fornece um formato especializado para armazenar informações em memória, diferente das Arrays o Registro nos permite armazenar mais de um tipo de dado.
+
+-Listas, Pilhas e Filas.
+
+-Listas: São estruturas de dados do tipo listas, armazenam dados de um determinado tipo em uma ordem específica. A diferença entre Lsitas e Arrays é a de que as Listas possuem tamanho ajustável, enquanto as Arrays possuem um tamanho fixo. Existem dois tipos de Lista, Ligadas ou Duplamente Ligadas.  
+Listas Ligadas: Existem os nós onde cada um dos nós conhece o valor que está sendo armazenado em seu interiror além de conhecer o elemento posterior a ele.
+Listas Duplamente Ligadas: É uma variação da lista ligada, a grande diferença entre elas é que as listas duplamente ligadas são biderecionais pois os seus nós sabem quem é o próximo e quem é o anterior.
+
+-Pilhas: É uma estrutura de dados que serve como uma coleção de elementos e permite o acesso a somente um item de dados armazenado. Oacesso aos itens de uma pilha é restrito -  somente um item pode ser lido ou removido por vez. Temos as listas LIFO (Last In First Out) onde o primeiro elemento a ser retirado é o último que foi inserido e FIFO (First In First Out) onde o primeiro elemento a ser retirado é o primeiro que foi inserido.
+
+-Filas: A estrutura de tipa fila admite a remoção de eementos e inserção de novos com a seguinte regra, o elemento removido é o que está ha mais tempo seguindo assim o conceito FIFO>
+
+-Árvores: Uma estrutura de dados que organiza seus elementosde forma hierarquica, onde existe um elemento que fica no topo da árvore chamado de raiz e existem os elemntos subordinados a ele que são chamados de nós ou folhas.
+
+-Tabela Hash(ou Tabela de espalhamento ou Dispersão): É uma estrutura de dados especial, que associa chaves( parte da informação que compões o elemento a ser manipulado) de pesquisa a valores(é a posição onde o elemento se encontra).
+É uma generalização da ideia de array, porém utiliza uma função denominada Hashing´para espalhar os elementos, fazendo com que os mesmos fiquem de forma não ordenada dentro do "array" que define a tabela. 
+
+-Grafos: São estruturas que permitem programar a relação entre objetos. Os objetos são vértices ou "nós" do garfo e os relacionamentos são arestas.
